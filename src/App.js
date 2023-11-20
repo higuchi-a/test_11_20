@@ -94,7 +94,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>オセロゲーム</h1>
+      <h1>オセロゲーム-11.20</h1>
       <div className="board">
         {board.map((row, rowIndex) => (
           <div key={rowIndex} className="board-row">
